@@ -1,1 +1,1 @@
-start this. 
+The vision for Agent Omnicosmic is to develop and benchmark AI agents and proto-skills dedicated to helping humanity achieve a future of sustainable abundance and post-scarcity.
